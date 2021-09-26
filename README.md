@@ -1,2 +1,2 @@
 # mkdocs_ajustes
-Ajustes a la plantilla web de MKDOCS
+Ajustes recomendas a la plantilla web base de MKDOCS. Por favor leer los [cambios que hicimos a MKDOCS](https://dalatgit.github.io/acerca/) para entender los archivos de este repositorio.
